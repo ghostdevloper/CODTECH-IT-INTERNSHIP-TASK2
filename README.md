@@ -1,3 +1,20 @@
+**Name**: AMAN RAJ
+
+**Company:** CODTECH IT SOLUTIONS
+
+**ID: CT08DS2066**
+
+**Domain**: DATA SCIENCE
+
+**Duration:** 10 JUNE 2024 TO 10 JULY 2024
+
+**Mentor:** G.SRAVANI
+
+**OVERVIEW OF THE PROJECTS**
+
+**The code performs the following steps:**
+
+
 ****Housing Price Prediction**
 **
 
